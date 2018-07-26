@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Debian Fix Screen Tearing on Intel Graphics"
-date:   2018-07-22 19:18:00 -0500
+date:   2018-07-24 19:18:00 -0500
 categories: linux debian
 ---
 The following worked for me on a Debian 9.4 install on my Dell laptop. The processor in the laptop is an Intel i5-4200u. 
